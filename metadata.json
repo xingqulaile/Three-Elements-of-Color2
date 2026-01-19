@@ -1,0 +1,5 @@
+{
+  "name": "Color Kingdom: The Three Elements",
+  "description": "An interactive, gamified web application for middle school students to learn the three elements of color (Hue, Value, Saturation). Features a story mode, interactive sliders, creative challenges, and a teacher admin panel.",
+  "requestFramePermissions": []
+}
